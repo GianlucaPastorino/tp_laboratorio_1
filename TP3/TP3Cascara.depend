@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1625570178 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"inputs.h"
+	"parser.h"
+	"Controller.h"
+
+1565993298 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\linkedlist.h
+
+1625564364 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\employee.h
+	"LinkedList.h"
+
+1625564905 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1625569428 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"inputs.h"
+
+1625564840 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\controller.h
+
+1625564364 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1625564364 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\inputs.h
+
+1625564364 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\parser.h
+
+1625564364 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - tp3cascara\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
