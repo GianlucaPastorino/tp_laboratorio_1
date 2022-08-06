@@ -46,3 +46,50 @@
 	<ctype.h>
 	"inputs.h"
 
+1625570178 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"inputs.h"
+	"parser.h"
+	"Controller.h"
+
+1565993298 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\linkedlist.h
+
+1625564364 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\employee.h
+	"LinkedList.h"
+
+1625564364 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\inputs.h
+
+1625564364 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\parser.h
+
+1625564840 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\controller.h
+
+1625564905 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1625564364 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1625569428 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"inputs.h"
+
+1625564364 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\eclipse\repositorio labo\tp_laboratorio_1\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
